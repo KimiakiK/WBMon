@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "WBMon")(type "KiCad")(uri "${KIPRJMOD}/WBMon.kicad_sym")(options "")(descr ""))
+)
